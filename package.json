@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Depot",
+=======
+  "name": "my_project",
+>>>>>>> 4a2ff0814fedb40561907d0358eeda8a46ac3c28
   "private": true,
   "dependencies": {}
 }
