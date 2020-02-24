@@ -83,11 +83,11 @@ GEM
     io-like (0.3.1)
     jbuilder (2.10.0)
       activesupport (>= 5.0.0)
-<<<<<<< HEAD
+
     libv8 (7.3.492.27.1)
-=======
+
     libv8 (3.16.14.19-x86_64-linux)
->>>>>>> 4a2ff0814fedb40561907d0358eeda8a46ac3c28
+
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -103,11 +103,11 @@ GEM
     mimemagic (0.3.4)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-<<<<<<< HEAD
+
     mini_racer (0.2.9)
       libv8 (>= 6.9.411)
-=======
->>>>>>> 4a2ff0814fedb40561907d0358eeda8a46ac3c28
+
+
     minitest (5.14.0)
     msgpack (1.3.3)
     nio4r (2.5.2)
@@ -146,10 +146,9 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-<<<<<<< HEAD
-=======
+
     ref (2.0.0)
->>>>>>> 4a2ff0814fedb40561907d0358eeda8a46ac3c28
+
     regexp_parser (1.6.0)
     ruby_dep (1.5.0)
     rubyzip (2.2.0)
@@ -179,12 +178,12 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
-<<<<<<< HEAD
-=======
+
+
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
       ref
->>>>>>> 4a2ff0814fedb40561907d0358eeda8a46ac3c28
+
     thor (1.0.1)
     thread_safe (0.3.6)
     tilt (2.0.10)
@@ -217,23 +216,21 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
-<<<<<<< HEAD
+
   mini_racer
   puma (~> 3.11)
   rails (~> 5.2.4, >= 5.2.4.1)
-=======
+
   puma (~> 3.11)
   rails (~> 5.2.4)
->>>>>>> 4a2ff0814fedb40561907d0358eeda8a46ac3c28
+
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
-<<<<<<< HEAD
-=======
   therubyracer
->>>>>>> 4a2ff0814fedb40561907d0358eeda8a46ac3c28
+
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
